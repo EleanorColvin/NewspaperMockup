@@ -1,0 +1,30 @@
+.cover {
+  width: 350px;
+  height: 500px;
+  background-image: linear-gradient(lightblue, darkgrey);
+  /* finish your styling of the cover div here! */
+}
+#title {
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Source Code Pro', monospace;
+  padding-top: 50px;
+  margin-bottom: 0px;
+
+}
+
+#subtitle {
+  color:aqua;
+  font-size: 12px;
+  margin-top: 0px;
+  padding-left: 150px;
+  font-family: 'Source Code Pro', monospace;
+  font-stretch:condensed;
+}
+
+#cover_image {
+  width: 250px;
+  border-radius: 7px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
